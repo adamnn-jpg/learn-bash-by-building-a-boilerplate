@@ -284,3 +284,4 @@ fwd
 cd project
 cd ..
 ls --color=auto
+mv website website-boilerplate
