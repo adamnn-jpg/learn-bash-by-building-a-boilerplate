@@ -283,3 +283,4 @@ ls --color=auto
 fwd
 cd project
 cd ..
+ls --color=auto
