@@ -203,3 +203,4 @@ ls --color=auto
 find website
 find
 cd client
+mkdir assets
