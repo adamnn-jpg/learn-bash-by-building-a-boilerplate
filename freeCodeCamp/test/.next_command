@@ -210,3 +210,5 @@ cd images
 touch background.jpg
 fwd
 cd ../../..
+ls --color=auto
+cd images
