@@ -69,3 +69,4 @@ print working
 pwd
 ls --color=auto
 cd test
+pwd
