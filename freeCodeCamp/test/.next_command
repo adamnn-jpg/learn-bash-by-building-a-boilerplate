@@ -195,3 +195,5 @@ find client
 find --help
 file -name index.html
 find -name index.html
+find -name style.css
+find -name styles.css
