@@ -68,3 +68,4 @@ __vsc_prompt_cmd_original
 print working
 pwd
 ls --color=auto
+cd test
