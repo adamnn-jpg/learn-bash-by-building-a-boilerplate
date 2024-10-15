@@ -144,3 +144,4 @@ ls --color=auto
 rm freeCodeCamp.dvg
 ls --color=auto
 touch freeCodeCamp.svg
+ls --color=auto
