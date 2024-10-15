@@ -130,3 +130,4 @@ ls --color=auto
 rm footer.jpg
 ls --color=auto
 touch footer.jpeg
+ls --color=auto
