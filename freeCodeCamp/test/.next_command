@@ -212,3 +212,4 @@ fwd
 cd ../../..
 ls --color=auto
 cd images
+ls --color=auto
